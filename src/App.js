@@ -4,7 +4,7 @@ import { Form } from './components/Form';
 
 function App() {
   return (
-    <div>
+    <div style={{width: "200px"}}>
       <Form/>
     </div>
   );
