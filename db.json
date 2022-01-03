@@ -1,3 +1,12 @@
 {
-  "receipe": []
+  "receipe": [
+    {
+      "title": "Chicken",
+      "ingredients": "fakfh,kjcsafs",
+      "timeToCook": "45",
+      "image": "kjashfaskj",
+      "instruction": "hjadhflasjfndsh dklsahfaslk",
+      "id": 1
+    }
+  ]
 }
