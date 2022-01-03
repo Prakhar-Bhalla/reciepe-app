@@ -23,8 +23,8 @@ function App() {
     </div>
     </div>
     <div style={{width : "1000px", margin : "30px auto", border : "1px solid black"}}>
+    <Info data={data}/>
     </div>
-      <Info data={data}/>
     </div>
   );
 }
